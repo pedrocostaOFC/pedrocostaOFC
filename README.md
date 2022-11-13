@@ -28,7 +28,6 @@
 <div style="display: inline_block"><br>
   <h3>Back end</h3>
   <img align="center" alt="Pedro-Node_js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">-
-  <img align="center" alt="Pedro-Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg">-
   <img align="center" alt="Pedro-SQlite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">-
   <img align="center" alt="Pedro-MYSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">-
   <img align="center" alt="Pedro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">-
