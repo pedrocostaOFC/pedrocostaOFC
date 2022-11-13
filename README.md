@@ -11,7 +11,7 @@
 
 <div align="center">
   <a href="https://github.com/LuanPBS98">
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=PedroCostashow_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=pedrocostaOFCshow_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanPBS98&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   <h2>Tecnologies</h2>
