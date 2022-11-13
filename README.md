@@ -9,6 +9,9 @@
 - 🃏 Linkedin: https://www.linkedin.com/in/pedro-costa-5b940018a/
 - 😄 Pronouns: he / him
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 <div align="center">
   <a href="https://github.com/pedrocostaOFC">
    <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocostaOFC&layout=compact&langs_count=7&theme=tokyonight"/>
