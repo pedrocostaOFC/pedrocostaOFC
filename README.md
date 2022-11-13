@@ -1,3 +1,4 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=120&section=header"/>
 ### Hi there 👋,you can call me Pedro Costa
 
 
@@ -67,3 +68,5 @@ API
 Training
 Blog
 About
+
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=120&section=footer"/>
