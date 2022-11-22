@@ -10,7 +10,7 @@
 - 🃏 Linkedin: https://www.linkedin.com/in/pedro-costa-5b940018a/
 - 😄 Pronouns: he / him
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedrocostaOFC&repo=github-readme-stats)](https://github.com/pedrocostaOFC/github-readme-stats)
+
 <div align="center">
   <a href="https://github.com/pedrocostaOFC">
     <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=pedrocostaOFC&show_icons=true&theme=radical"/>
